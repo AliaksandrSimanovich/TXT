@@ -1,0 +1,10 @@
+skill_01: basic_theory,
+skill_02: client-server,
+skill_03: http_methods,
+skill_04: API,
+skill_05: sniffers,
+skill_06: devtools,
+skill_07: mobile_testing,
+skill_08: linux,
+skill_09: sql_basics,
+skill_10: scrum-canban

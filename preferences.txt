@@ -1,0 +1,5 @@
+favorite_film: no_film,
+favorite_series: no_series,
+favorite_food: no_food,
+favorite_season: summer,
+favorite_country: UK
