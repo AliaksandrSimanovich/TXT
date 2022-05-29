@@ -1,0 +1,4 @@
+name: AliaksandrSimanovich,
+age: 36,
+pets: 0,
+salary: 1000
